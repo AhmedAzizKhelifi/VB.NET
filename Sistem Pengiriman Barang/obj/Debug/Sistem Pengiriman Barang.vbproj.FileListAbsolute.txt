@@ -1,0 +1,102 @@
+C:\Users\Ucok\AppData\Local\Temporary Projects\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.exe.config
+C:\Users\Ucok\AppData\Local\Temporary Projects\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.exe
+C:\Users\Ucok\AppData\Local\Temporary Projects\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.pdb
+C:\Users\Ucok\AppData\Local\Temporary Projects\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.xml
+C:\Users\Ucok\AppData\Local\Temporary Projects\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form1.resources
+C:\Users\Ucok\AppData\Local\Temporary Projects\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Resources.resources
+C:\Users\Ucok\AppData\Local\Temporary Projects\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.vbproj.GenerateResource.Cache
+C:\Users\Ucok\AppData\Local\Temporary Projects\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.exe
+C:\Users\Ucok\AppData\Local\Temporary Projects\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.xml
+C:\Users\Ucok\AppData\Local\Temporary Projects\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.pdb
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.exe.config
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.exe
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.xml
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.pdb
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.exe
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.pdb
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.xml
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form1.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Resources.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.vbproj.GenerateResource.Cache
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form2.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form3.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form4.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form5.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.LupaSandi.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.DaftarPengguna.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.vbprojResolveAssemblyReference.cache
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form6.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form7.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Harga.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.CrystalReport.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.LaporanPesawat.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.PelayananCargo.resources
+D:\KULIAH\Semester IV\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Info.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.exe.config
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.exe
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.xml
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.pdb
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.exe
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.pdb
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.xml
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\bin\Debug\skincrafter_.net4.5_vs2012.dll
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.vbprojResolveAssemblyReference.cache
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.CrystalReport.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.DaftarPengguna.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form1.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form2.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form3.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form4.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form5.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form6.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form7.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Harga.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Info.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.LaporanPesawat.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.LupaSandi.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Resources.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.PelayananCargo.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.vbproj.GenerateResource.Cache
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form8.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.LoadBarang.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form9.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form10.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.DaftarPengguna2.resources
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.exe.config
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.exe
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.xml
+D:\KULIAH\Tugas Besar Bhs.Prog\Sistem Pengiriman Barang\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.pdb
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.exe.config
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.exe
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.xml
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.pdb
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.exe
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.pdb
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.xml
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\bin\Debug\skincrafter_.net4.5_vs2012.dll
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.vbprojResolveAssemblyReference.cache
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.CrystalReport.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.DaftarPengguna.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.DaftarPengguna2.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form1.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form10.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form2.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form3.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form4.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form5.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form6.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form7.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form8.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Form9.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Harga.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Info.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.LaporanPesawat.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.LoadBarang.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.LupaSandi.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.Resources.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem_Pengiriman_Barang.PelayananCargo.resources
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.vbproj.GenerateResource.Cache
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.exe.manifest
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\bin\Debug\Sistem Pengiriman Barang.application
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.exe.manifest
+D:\KULIAH\Sistem Pengiriman Barang Cargo Pesawat\Sistem Informasi Pengiriman Barang Cargo Pesawat\Sistem Pengiriman Barang\obj\Debug\Sistem Pengiriman Barang.application

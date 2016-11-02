@@ -1,0 +1,112 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SistemPengirimanBarang
+</name>
+</assembly>
+<members>
+<member name="T:Sistem_Pengiriman_Barang.DataSet1.PerusahaanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.PesawatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.Kota_TujuanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.HargaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.PajakDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.TransaksiPengirimanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.Transaksi_PengirimanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.PerusahaanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.PesawatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.Kota_TujuanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.HargaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.PajakRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.TransaksiPengirimanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.Transaksi_PengirimanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.PerusahaanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.PesawatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.Kota_TujuanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.HargaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.PajakRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.TransaksiPengirimanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1.Transaksi_PengirimanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Sistem_Pengiriman_Barang.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Sistem_Pengiriman_Barang.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Sistem_Pengiriman_Barang.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
